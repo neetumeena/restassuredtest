@@ -54,7 +54,6 @@ public class TestPostAPI {
         Assert.assertEquals( "Correct Success code was returned", successCode, "OPERATION_SUCCESS");
 
 
-
     }
 
 
